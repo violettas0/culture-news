@@ -1,27 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ce1134-0219-46dd-a0f6-1e10384da746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bookmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/comments.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/news1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/news2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/news3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/news4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ps1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ps2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ps3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ps4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rw1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rw2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rw3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rw4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/views.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Raleway.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayBlack/RalewayBlack.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayBlack/RalewayBlack.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayBlack/RalewayBlack.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayBold/RalewayBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayBold/RalewayBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayBold/RalewayBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraBold/RalewayExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraBold/RalewayExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraBold/RalewayExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraLight/RalewayExtraLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraLight/RalewayExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraLight/RalewayExtraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayLight/RalewayLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayLight/RalewayLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayLight/RalewayLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayMedium/RalewayMedium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayMedium/RalewayMedium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayMedium/RalewayMedium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayRegular/RalewayRegular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayRegular/RalewayRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayRegular/RalewayRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewaySemiBold/RalewaySemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewaySemiBold/RalewaySemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewaySemiBold/RalewaySemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayThin/RalewayThin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayThin/RalewayThin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RalewayThin/RalewayThin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Hotel-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/leftarror.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/line.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photo_2020-01-11_08-42-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/promobg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/rightarror.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/verticalline.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,6 +79,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,6 +94,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/veles/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -82,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578700516676</updated>
-      <workItem from="1578700518497" duration="5323000" />
+      <workItem from="1578700518497" duration="19765000" />
     </task>
     <servers />
   </component>

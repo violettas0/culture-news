@@ -2,66 +2,73 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900|Raleway:200,300,400&display=swap"
+          rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
     <title>Новости культуры</title>
 </head>
 <body class="index-page">
-    <header class="header">
-        <h1 class="logo header__logo">Новости культуры</h1>
-        <ul class="menu header__menu">
-            <li class="menu__item"><a href="#">Новости</a></li>
-            <li class="menu__item"><a href="#">Обзоры</a></li>
-            <li class="menu__item"><a href="#">Музыка</a></li>
-            <li class="menu__item"><a href="#">Архитектура</a></li>
-            <li class="menu__item"><a href="#">Кино</a></li>
-            <li class="menu__item"><a href="#">Театр</a></li>
-            <li class="menu__item"><a href="#">Литература</a></li>
-            <li class="menu__item"><a href="#">Религия</a></li>
-            <li class="menu__item"><a href="#">Живопись</a></li>
-        </ul>
-    </header>
-    <main>
-        <section class="promo-slider">
-            <span class="promo-slider__flag">Новое</span>
-            <h2 class="promo-slider__title">Подводный отель</h2>
-            <p class="promo-slider__description">Как известно, Дубай – город контрастов. Самые революционные<br>
-                и фантастические мечты архитекторов способен воплотить в жизнь<br>
-                этот мегаполис, построенный на нефти и за счет нефти</p>
+<header class="header">
+    <h1 class="logo header__logo">Новости культуры</h1>
+    <ul class="menu header__menu">
+        <li class="menu__item"><a class="menu__link" href="#">Новости</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Обзоры</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Музыка</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Архитектура</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Кино</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Театр</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Литература</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Религия</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Живопись</a></li>
+    </ul>
+</header>
+<main>
+    <section class="promo-slider">
+        <span class="promo-slider__flag">Новое</span>
+        <h2 class="promo-slider__title">Подводный отель</h2>
+        <div class="promo-slider__nav">
             <button class="promo-slider__button promo-slider__button--previous">Предыдущая</button>
+            <span class="promo-slider__nav-button promo-slider__nav-button--left"></span>
+            <span class="promo-slider__nav-button promo-slider__nav-button--right"></span>
             <button class="promo-slider__button promo-slider__button--next">Следущая</button>
-        </section>
+        </div>
+        <p class="promo-slider__description">Как известно, Дубай – город контрастов. Самые революционные<br>
+            и фантастические мечты архитекторов способен воплотить в жизнь<br>
+            этот мегаполис, построенный на нефти и за счет нефти</p>
+    </section>
+    <div class="main-content">
         <section class="news">
             <h2 class="title news__title">Новости</h2>
-            <div class="news__container">
-                <h3 class="news__headline">Новости культуры России и всего мира</h3>
-                <img src="img/news1.png" alt="Иллюстрация новости." class="news__img">
-                <p class="news__lead">В минувшие выходные в Москве на фестивале «Оберег»<br>
+            <div class="news__container news__container--first">
+                <h3 class="news__headline news__headline--first">Новости культуры России и всего мира</h3>
+                <img src="img/news1.png" alt="Иллюстрация новости." class="news__img news__img--first">
+                <p class="news__lead news__lead--first">В минувшие выходные в Москве на фестивале «Оберег»<br>
                     вручили первую премию Russian World Music Awards</p>
             </div>
             <div class="news__container">
-                <h3 class="news__headline">Открытие нового памятника Евгению Леонову</h3>
+                <h3 class="news__headline">Открытие нового<br> памятника<br> Евгению Леонову</h3>
                 <img src="img/news2.png" alt="Иллюстрация новости." class="news__img">
                 <p class="news__lead">10 сентября в 15:00 был<br>
                     открыт памятник писателю</p>
             </div>
             <div class="news__container">
-                <h3 class="news__headline">Беседы с писателями</h3>
+                <h3 class="news__headline">Беседы с<br> писателями</h3>
                 <img src="img/news3.png" alt="Иллюстрация новости." class="news__img">
                 <p class="news__lead">Русские писатели говорят<br>
                     о важности искусства</p>
             </div>
             <div class="news__container">
-                <h3 class="news__headline">День и ночь св. Патрика: встреча старых друзей</h3>
+                <h3 class="news__headline">День и ночь св.<br> Патрика: встреча<br> старых друзей</h3>
                 <img src="img/news4.png" alt="Иллюстрация новости." class="news__img">
-                <p class="news__lead">Не Джойсом единым живет Ирландия!</p>
+                <p class="news__lead">Не Джойсом единым живет<br> Ирландия!</p>
             </div>
         </section>
         <section class="reviews">
             <h2 class="title reviews__title">Обзоры</h2>
             <div class="reviews__container">
                 <h3 class="reviews__headline">«Шальные годы» Монпарнаса</h3>
-                <p class="reviews__description">В Музее изобразительных искусств имени Пушкина<br>
-                    с 29 сентября по 29 ноября проходит выставка «Шальные<br>
+                <p class="reviews__description">В Музее изобразительных искусств имени Пушкина с<br>
+                    29 сентября по 29 ноября проходит выставка «Шальные
                     годы Монпарнаса»</p>
                 <img src="img/rw1.png" alt="Иллюстрация к обзору." class="reviews__img"></div>
             <div class="reviews__container">
@@ -116,7 +123,7 @@
                 <img src="img/a1.png" alt="Иллюстрация к статье." class="articles__img"></div>
             <div class="articles__container">
                 <h3 class="articles__headline"></h3>
-                <button class="button articles__button"></button>
+                <bputton class="button articles__button"></bputton>
                 <img src="img/a2.png" alt="Иллюстрация к статье." class="articles__img"></div>
             <div class="articles__container">
                 <h3 class="articles__headline"></h3>
@@ -129,22 +136,23 @@
             <button class="articles__nav-button articles__nav-button--previous"></button>
             <button class="articles__nav-button articles__nav-button--next"></button>
         </section>
-    </main>
+    </div>
+</main>
 
-    <footer class="footer">
-        <h1 class="logo footer__logo">Новости культуры</h1>
-        <ul class="menu footer__menu">
-            <li class="menu__item"><a href="#">Новости</a></li>
-            <li class="menu__item"><a href="#">Обзоры</a></li>
-            <li class="menu__item"><a href="#">Музыка</a></li>
-            <li class="menu__item"><a href="#">Архитектура</a></li>
-            <li class="menu__item"><a href="#">Кино</a></li>
-            <li class="menu__item"><a href="#">Театр</a></li>
-            <li class="menu__item"><a href="#">Литература</a></li>
-            <li class="menu__item"><a href="#">Религия</a></li>
-            <li class="menu__item"><a href="#">Живопись</a></li>
-        </ul>
-        <span class="footer__copyright"></span>
-    </footer>
+<footer class="footer">
+    <h1 class="logo footer__logo">Новости культуры</h1>
+    <ul class="menu footer__menu">
+        <li class="menu__item"><a class="menu__link" href="#">Новости</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Обзоры</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Музыка</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Архитектура</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Кино</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Театр</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Литература</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Религия</a></li>
+        <li class="menu__item"><a class="menu__link" href="#">Живопись</a></li>
+    </ul>
+    <span class="footer__copyright">© 2018 Новости культуры. Все права защищены.</span>
+</footer>
 </body>
 </html>
