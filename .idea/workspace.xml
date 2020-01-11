@@ -5,43 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ce1134-0219-46dd-a0f6-1e10384da746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayBlack/RalewayBlack.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayBlack/RalewayBlack.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayBlack/RalewayBlack.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayBold/RalewayBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayBold/RalewayBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayBold/RalewayBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraBold/RalewayExtraBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraBold/RalewayExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraBold/RalewayExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraLight/RalewayExtraLight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraLight/RalewayExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayExtraLight/RalewayExtraLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayLight/RalewayLight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayLight/RalewayLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayLight/RalewayLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayMedium/RalewayMedium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayMedium/RalewayMedium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayMedium/RalewayMedium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayRegular/RalewayRegular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayRegular/RalewayRegular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayRegular/RalewayRegular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewaySemiBold/RalewaySemiBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewaySemiBold/RalewaySemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewaySemiBold/RalewaySemiBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayThin/RalewayThin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayThin/RalewayThin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/RalewayThin/RalewayThin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Hotel-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/leftarror.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/line.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/photo_2020-01-11_08-42-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/promobg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/rightarror.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/verticalline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrowforward.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo_2020-01-11_08-42-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ps3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ps3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578700516676</updated>
-      <workItem from="1578700518497" duration="19765000" />
+      <workItem from="1578700518497" duration="28766000" />
+      <workItem from="1578767181608" duration="2079000" />
     </task>
     <servers />
   </component>
@@ -126,7 +95,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
