@@ -100,7 +100,7 @@
                                                         height="15px"></object>2</span>
             </div>
             <div class="reviews__container">
-                <h3 class="reviews__headline">Русские балетные сезоны </h3>
+                <h3 class="reviews__headline">Русские балетные сезоны</h3>
                 <p class="reviews__description">В Новом Иерусалиме стартовал необычный<br>
                     культурно-развлекательный спектакль, который<br>
                     покажут в новом театре</p>
@@ -126,8 +126,13 @@
                                                         height="15px"></object>0</span>
             </div>
             <nav class="reviews__pagination">
-                <button class="pagination__button pagination__button--previous"></button>
-                <button class="pagination__button pagination__button--next"></button>
+                <button class="pagination__button pagination__button--previous"><object type="image/svg+xml" data="img/pagleft.svg" width="11px"
+                                                                                        height="11px"></object></button>
+                <ul class="pagination__numbers">
+
+                </ul>
+                <button class="pagination__button pagination__button--next"><object type="image/svg+xml" data="img/pagright.svg" width="11px"
+                                                                                    height="11px"></object></button>
             </nav>
         </section>
         <article class="photo-sessions photo-sessions--1">
@@ -158,28 +163,52 @@
             </button>
         </article>
         <section class="articles">
-            <button class="articles__nav-button articles__nav-button--previous"></button>
-            <div class="articles__container">
-                <h3 class="articles__headline">КАК все успевать</h3>
-                <button class="button__link articles__button">Смотреть</button>
-                <img src="img/a1.png" alt="Иллюстрация к статье." class="articles__img">
+            <button class="articles__nav-button articles__nav-button--previous"><object type="image/svg+xml" data="img/prevbutton.svg" width="11px"
+                                                                                        height="11px"></object></button>
+            <div class="js-slider__container">
+                <div class="articles__container">
+                    <h3 class="articles__headline">КАК все успевать</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a1.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
+                <div class="articles__container">
+                    <h3 class="articles__headline">Найти себя</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a2.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
+                <div class="articles__container">
+                    <h3 class="articles__headline">Голубая мечта</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a3.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
+                <div class="articles__container">
+                    <h3 class="articles__headline">Путь к успеху</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a4.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
+                <div class="articles__container">
+                    <h3 class="articles__headline">КАК все успевать</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a1.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
+                <div class="articles__container">
+                    <h3 class="articles__headline">Найти себя</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a2.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
+                <div class="articles__container">
+                    <h3 class="articles__headline">Голубая мечта</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a3.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
+                <div class="articles__container">
+                    <h3 class="articles__headline">Путь к успеху</h3>
+                    <button class="button__link articles__button">Смотреть</button>
+                    <img src="img/a4.png" alt="Иллюстрация к статье." class="articles__img">
+                </div>
             </div>
-            <div class="articles__container">
-                <h3 class="articles__headline">Найти себя</h3>
-                <button class="button__link articles__button">Смотреть</button>
-                <img src="img/a2.png" alt="Иллюстрация к статье." class="articles__img">
-            </div>
-            <div class="articles__container">
-                <h3 class="articles__headline">Голубая мечта</h3>
-                <button class="button__link articles__button">Смотреть</button>
-                <img src="img/a3.png" alt="Иллюстрация к статье." class="articles__img">
-            </div>
-            <div class="articles__container">
-                <h3 class="articles__headline">Путь к успеху</h3>
-                <button class="button__link articles__button">Смотреть</button>
-                <img src="img/a4.png" alt="Иллюстрация к статье." class="articles__img">
-            </div>
-            <button class="articles__nav-button articles__nav-button--next"></button>
+            <button class="articles__nav-button articles__nav-button--next"><object type="image/svg+xml" data="img/nextbutton.svg" width="11px"
+                                                                                    height="11px"></object> </button>
         </section>
     </div>
 </main>
@@ -200,6 +229,7 @@
         </ul>
         <span class="footer__copyright">© 2018 Новости культуры. Все права защищены.</span>
     </div>
+    <script src="js/script.js"></script>
 </footer>
 </body>
 </html>

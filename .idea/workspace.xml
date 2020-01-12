@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5ce1134-0219-46dd-a0f6-1e10384da746" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nextbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nextbutton.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pagleft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pagright.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/prevbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/prevbutton.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Hotel-11.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +31,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,6 +58,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Админ\Documents\portfolio_html\veles\.gitgnore" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578700516676</updated>
       <workItem from="1578700518497" duration="28766000" />
-      <workItem from="1578767181608" duration="11682000" />
+      <workItem from="1578767181608" duration="35134000" />
     </task>
     <servers />
   </component>
