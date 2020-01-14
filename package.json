@@ -1,22 +1,18 @@
 {
   "name": "culture-news",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/violettas0/veles.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/violettas0/veles/issues"
-  },
-  "homepage": "https://github.com/violettas0/veles#readme",
   "dependencies": {
-    "@glidejs/glide": "^3.4.1"
+    "autoprefixer": "^9.7.3",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0"
+  },
+  "scripts": {
+    "build": "gulp autoprefixer",
+    "start": "gulp browser-sync"
   }
 }

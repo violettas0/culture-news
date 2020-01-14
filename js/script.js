@@ -76,7 +76,7 @@ function reviewGenerator (numberOfItems) {
     }
 }
 
-reviewGenerator(20);
+reviewGenerator(12);
 
 let currentPage = 1;
 let reviewsNumber = 4;
@@ -120,6 +120,9 @@ function setupPagination(reviews, wrapper, reviewsNumber) {
     let pageCount = Math.ceil(reviews.length / reviewsNumber);
     for (let i = 1; i < pageCount + 1; i++) {
         let paginationItem = paginationItems(i, reviews);
+        if (i === pageCount) {
+            paginationItem.children[0].classList.add('number__button--last')
+        }
         wrapper.appendChild(paginationItem);
     }
 }
@@ -173,7 +176,19 @@ function makeBtnActive(page) {
     btn.classList.add('number__button--active');
 }
 
+let menuButton = document.querySelector('.menu__button');
+let closeButton = document.querySelector('.menu__button--close');
+let menu = document.querySelector('.header__menu');
 
+menuButton.addEventListener('click', () => {
+    menu.classList.add('header__menu--mobile');
+    closeButton.classList.remove('visually-hidden');
+});
+
+closeButton.addEventListener('click', () => {
+    menu.classList.remove('header__menu--mobile');
+    closeButton.classList.add('visually-hidden');
+});
 
 
 
